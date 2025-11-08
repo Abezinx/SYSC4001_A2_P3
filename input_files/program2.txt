@@ -1,0 +1,3 @@
+CPU, 6
+SYSCALL, 3
+END_IO, 2
